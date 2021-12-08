@@ -10,11 +10,12 @@
 
 ## Preguntas de una Entrevista tecnica de Desarrollo Web
 
-1. Por favor describe en palabras simples como funciona el Box Model.
-2. Si un elemento de tipo texto estuviera desalineado con respecto de su div contenedor, ¿Cual podria ser una de sus razones?
-3. ¿Cual es la diferencia entre un elemento de tipo span y un elemto de tipo div?
-4. ¿Como se diferencias los elementos de Bloque de los elementos de Linea? ¿Podrias describir al menos 3 de los elementos de cada grupo?
-5. ¿En que se diferencian las propiedades padding y margin?
+1. Por favor explica cuales son las responsabilidades de un desarrolladore Web.
+2. Por favor describe en palabras simples como funciona el Box Model.
+3. Si un elemento de tipo texto estuviera desalineado con respecto de su div contenedor, ¿Cual podria ser una de sus razones?
+4. ¿Cual es la diferencia entre un elemento de tipo span y un elemto de tipo div?
+5. ¿Como se diferencias los elementos de Bloque de los elementos de Linea? ¿Podrias describir al menos 3 de los elementos de cada grupo?
+6. ¿En que se diferencian las propiedades padding y margin?
 7. ¿Que es FlexBox y como Funciona?
 8. ¿Que es CSS Grid y como Funciona?
 9. ¿Que diferencia a CSS Grid de FlexBox?
