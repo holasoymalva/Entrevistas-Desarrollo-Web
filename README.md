@@ -10,7 +10,7 @@
 
 ## Preguntas de una Entrevista tecnica de Desarrollo Web
 
-1. Por favor explica cuales son las responsabilidades de un desarrolladore Web.
+1. Por favor explica cuales son las responsabilidades de un desarrollador Web.
 2. Por favor describe en palabras simples como funciona el Box Model.
 3. Si un elemento de tipo texto estuviera desalineado con respecto de su div contenedor, ¿Cual podria ser una de sus razones?
 4. ¿Cual es la diferencia entre un elemento de tipo span y un elemto de tipo div?
