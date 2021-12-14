@@ -31,15 +31,16 @@
 1. Por favor explica cuales son las responsabilidades de un desarrollador Web.
 2. Por favor describe en palabras simples como funciona el Box Model.
 3. Si un elemento de tipo texto estuviera desalineado con respecto de su div contenedor, ¿Cual podria ser una de sus razones?
-4. ¿Cual es la diferencia entre un elemento de tipo span y un elemto de tipo div?
-5. ¿Como se diferencias los elementos de Bloque de los elementos de Linea? ¿Podrias describir al menos 3 de los elementos de cada grupo?
+4. ¿Cual es la diferencia entre un elemento de tipo span y un elemento de tipo div?
+5. ¿Como se diferencian los elementos de Bloque de los elementos de Linea? ¿Podrias describir al menos 3 de los elementos de cada grupo?
 6. ¿En que se diferencian las propiedades padding y margin?
-7. ¿Que es FlexBox y como Funciona?
-8. ¿Que es CSS Grid y como Funciona?
-9. ¿Que diferencia a CSS Grid de FlexBox?
-10. ¿Podrias explicar cual es la diferencia entre un Framework y una Libreria?
-11. ¿Consideras que Bootstrap es una libreria o un framework?¿Porque?
-12. ¿Podrias nombrar algunas desventajas y ventajas de usar bootstrap?
-13. ¿Haz usado preprocesadores de CSS? ¿Que ventajas consideras que nos brindan?
-14. ¿En qué se diferencia una clase de un ID?
-15. ¿En qué casos nos conviene más utilizar una clase que un ID y viceversa?
+7. 14. ¿En qué se diferencia una clase de un ID?
+8. ¿En qué casos nos conviene más utilizar una clase que un ID y viceversa?
+9. ¿Que es FlexBox y como funciona?
+10. ¿Que es CSS Grid y como funciona?
+11. ¿Que diferencia a CSS Grid de FlexBox?
+12. ¿Podrias explicar cual es la diferencia entre un Framework y una Libreria?
+13. ¿Consideras que Bootstrap es una libreria o un framework?¿Porque?
+14. ¿Podrias nombrar algunas desventajas y ventajas de usar bootstrap?
+15. ¿Haz usado preprocesadores de CSS? ¿Que ventajas consideras que nos brindan?
+
