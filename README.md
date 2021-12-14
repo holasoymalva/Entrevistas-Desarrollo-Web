@@ -29,20 +29,21 @@
 ## Preguntas de una Entrevista tecnica de Desarrollo Web
 
 1. Por favor explica cuales son las responsabilidades de un desarrollador Web.
-2. Por favor describe en palabras simples como funciona el Box Model.
-3. Si un elemento de tipo texto estuviera desalineado con respecto de su div contenedor, ¿Cual podria ser una de sus razones?
-4. ¿Cual es la diferencia entre un elemento de tipo span y un elemento de tipo div?
-5. ¿Como se diferencian los elementos de Bloque de los elementos de Linea? ¿Podrias describir al menos 3 de los elementos de cada grupo?
-6. ¿En que se diferencian las propiedades padding y margin?
-7. ¿En qué se diferencia una clase de un ID?
-8. ¿En qué casos nos conviene más utilizar una clase que un ID y viceversa?
-9. ¿Que es FlexBox y como funciona?
-10. ¿Que es CSS Grid y como funciona?
-11. ¿Que diferencia a CSS Grid de FlexBox?
-12. ¿Podrias explicar cual es la diferencia entre un Framework y una Libreria?
-13. ¿Consideras que Bootstrap es una libreria o un framework?¿Porque?
-14. ¿Podrias nombrar algunas desventajas y ventajas de usar bootstrap?
-15. ¿Haz usado preprocesadores de CSS? ¿Que ventajas consideras que nos brindan?
+2. ¿Cual es la funcion de un navegador?
+3. Por favor describe en palabras simples como funciona el Box Model.
+4. Si un elemento de tipo texto estuviera desalineado con respecto de su div contenedor, ¿Cual podria ser una de sus razones?
+5. ¿Cual es la diferencia entre un elemento de tipo span y un elemento de tipo div?
+6. ¿Como se diferencian los elementos de Bloque de los elementos de Linea? ¿Podrias describir al menos 3 de los elementos de cada grupo?
+7. ¿En que se diferencian las propiedades padding y margin?
+8. ¿En qué se diferencia una clase de un ID?
+9. ¿En qué casos nos conviene más utilizar una clase que un ID y viceversa?
+10. ¿Que es FlexBox y como funciona?
+11. ¿Que es CSS Grid y como funciona?
+12. ¿Que diferencia a CSS Grid de FlexBox?
+13. ¿Podrias explicar cual es la diferencia entre un Framework y una Libreria?
+14. ¿Consideras que Bootstrap es una libreria o un framework?¿Porque?
+15. ¿Podrias nombrar algunas desventajas y ventajas de usar bootstrap?
+16. ¿Haz usado preprocesadores de CSS? ¿Que ventajas consideras que nos brindan?
 
 ### Material Complementario
 
