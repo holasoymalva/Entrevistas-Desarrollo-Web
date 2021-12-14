@@ -41,3 +41,5 @@
 11. ¿Consideras que Bootstrap es una libreria o un framework?¿Porque?
 12. ¿Podrias nombrar algunas desventajas y ventajas de usar bootstrap?
 13. ¿Haz usado preprocesadores de CSS? ¿Que ventajas consideras que nos brindan?
+14. ¿En qué se diferencia una clase de un ID?
+15. ¿En qué casos nos conviene más utilizar una clase que un ID y viceversa?
