@@ -34,7 +34,7 @@
 4. ¿Cual es la diferencia entre un elemento de tipo span y un elemento de tipo div?
 5. ¿Como se diferencian los elementos de Bloque de los elementos de Linea? ¿Podrias describir al menos 3 de los elementos de cada grupo?
 6. ¿En que se diferencian las propiedades padding y margin?
-7. 14. ¿En qué se diferencia una clase de un ID?
+7. ¿En qué se diferencia una clase de un ID?
 8. ¿En qué casos nos conviene más utilizar una clase que un ID y viceversa?
 9. ¿Que es FlexBox y como funciona?
 10. ¿Que es CSS Grid y como funciona?
