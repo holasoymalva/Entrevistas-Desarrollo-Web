@@ -1,4 +1,4 @@
-# Entrevistas de Desarrollo Web
+# Manual de preparacion para entrevistas laborales de Desarrollo Web
 
 ### ¿Cómo me preparo para una entrevista de desarrollador web?
 
