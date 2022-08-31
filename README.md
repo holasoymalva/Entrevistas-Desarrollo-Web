@@ -45,7 +45,14 @@
 15. ¿Podrias nombrar algunas desventajas y ventajas de usar bootstrap?
 16. ¿Haz usado preprocesadores de CSS? ¿Que ventajas consideras que nos brindan?
 
-### Material Complementario
 
-- []()
+## Author
+Created by Malvabombom.
+
+[![in]][in-link] [![ig]][ig-link] [![tt]][tt-link]
+
+
+[in-link]: https://www.linkedin.com/in/martin-manriquez-899877177/
+[ig-link]: https://www.instagram.com/malvabombom/
+[tt-link]: https://www.tiktok.com/@malvabombom
 
