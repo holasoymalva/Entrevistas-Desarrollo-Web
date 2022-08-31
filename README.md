@@ -45,6 +45,21 @@
 15. ¿Podrias nombrar algunas desventajas y ventajas de usar bootstrap?
 16. ¿Haz usado preprocesadores de CSS? ¿Que ventajas consideras que nos brindan?
 
+## Prueba Tecnica
+La prueba tecnica es un reto en el cual el equipo encargado de evaluarte decidira que tipo de reto ponerte para si ver, cuales son tus conocimientos practicos y como los aplicas aun posible proyecto real.
+
+**Reto** Crea un nuevo Repositorio en Github llamado "reto-ui" en el cual debera desarrollar siguiendo los siguientes puntos:
+
+* Debera hacer uso de Sass como pre-procesador de codigo.
+* Debera documentar su proyecto en Github.
+* Debera hacer uso de buenas practicas.
+* Contara con un tiempo maximo de 3 dias para mostrar un avance.
+* Debera dividir su avance por objetivos realista.
+* Podra estar en contacto con el equipo tecnico si surgen dudas.
+
+![alt text](https://cdn.dribbble.com/userupload/3352469/file/original-80206d1f2d56f0f532ab46e01998e0eb.png?compress=1&resize=1024x768)
+
+
 
 ## Author
 Created by Malvabombom.
